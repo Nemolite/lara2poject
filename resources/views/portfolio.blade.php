@@ -1,5 +1,3 @@
-<!doctype html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport"
@@ -9,17 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-<h1>Hello,World</h1>
-
-<div class="main_menu">
-<ul class="menu">
-    <li><a href="/home">HOME</a></li>
-    <li><a href="/portfolio">portfolio</a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-    <li><a href=""></a></li>
-</ul>
-</div>
+<h1>Portfolio</h1>
 <script src="{{ URL::asset('js/app.js') }}"></script>
 </body>
 </html>
